@@ -1,8 +1,5 @@
 # React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A small reusable accordion page made in react for practice and uderstanding of various small concepts.
+![Screenshot 2024-07-04 113132](https://github.com/daksh20000/Tom-Cruise-Accordion-/assets/110354207/a379a781-637a-4309-92c0-168354283720)
+![Screenshot 2024-07-04 113102](https://github.com/daksh20000/Tom-Cruise-Accordion-/assets/110354207/c03c6dc2-c4dd-4393-936d-6162994a4d0e)
+![Screenshot 2024-07-04 113030](https://github.com/daksh20000/Tom-Cruise-Accordion-/assets/110354207/d2e2a252-4aa9-4956-af98-533d19e4d379)
