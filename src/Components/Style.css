@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+    
+}
+.container {
+    border: 5px solid rgb(88, 211, 241);
+    border-radius: 20px;
+    padding: 20px;
+    width: 630px;
+    max-width: 100%;
+    animation: pulse 2s infinite alternate;
+
+}
+
+@keyframes pulse {
+    from {
+        border-color: #a3f919;
+    }
+    to {
+        border-color: #0abada;
+    }
+}
+.heading {
+    color: aqua;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    background-color: #0645576f; 
+    border-radius: 20px;
+}
+.single-box{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.title{
+    display: flex;
+    align-items:center;
+    gap: 8px;
+    text-decoration: underline;
+    
+}
+.dropdown-icon{
+    cursor: pointer;
+}
+.title{
+    color: beige;
+}
+.accordion{
+    color: beige;
+    font-size:larger
+}
